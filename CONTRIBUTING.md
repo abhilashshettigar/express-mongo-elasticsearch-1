@@ -7,4 +7,3 @@ All contributions are welcome!
  - Fork the repository to your own account
  - Clone the repository
  - Make changes
- - Submit a pull request with tests on develop branch
